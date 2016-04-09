@@ -1,8 +1,30 @@
 {
+  "name": "active-app",
   "scripts": {
     "test": "ava"
   },
   "devDependencies": {
     "ava": "^0.14.0"
-  }
+  },
+  "description": "Detect the active window/application on Linux (X11) and hopefully more platforms in the future...",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/active-app.git"
+  },
+  "keywords": [
+    "x11",
+    "active",
+    "window",
+    "app",
+    "application"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/active-app/issues"
+  },
+  "homepage": "https://github.com/bencevans/active-app#readme"
 }
