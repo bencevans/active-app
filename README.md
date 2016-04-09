@@ -38,4 +38,4 @@ activeApp((err, app) => {
 
 ## Licence
 
-MIT © Ben Evans
+MIT © [Ben Evans](http://bensbit.co.uk)
