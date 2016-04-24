@@ -1,0 +1,7 @@
+name: bencevans/active-app
+author:
+  name: Ben Evans
+  email: ben@bensbit.co.uk
+  url: 'http://bensbit.co.uk/'
+copyright: 2015 Ben Evans
+description: Detect the active window/application on Linux (X11) and hopefully more platforms in the future...
